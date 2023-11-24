@@ -1,0 +1,11 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: rgb(27, 133, 168);
+    }
+  }
+
+  @media only screen and (min-width: 900px) {
+    body {
+      background-color: rgb(185, 253, 255);
+    }
+  }
